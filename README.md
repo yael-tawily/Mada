@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # SQL MADA - Emergency Response Database System
 
@@ -84,3 +85,7 @@ Fully customizable to fit other emergency services (e.g., fire, medical, police)
 ## License
 This project is intended for educational and academic use only.
 
+=======
+# Mada
+SQL-Query
+>>>>>>> 1a556fa3c800fd06dbdb2657c9d5c4aaa8af0de3
